@@ -1,8 +1,10 @@
 .flex {
     display: flex;
+    justify-content: center;
     border: 3px solid black;
     background-color: #4e57ff4f;
     margin: 50px 20px;
+
 
 }
 
